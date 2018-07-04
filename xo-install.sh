@@ -3,7 +3,7 @@
 ## Modify to your need ##
 
 #XOUSER="node"
-PORT="82"
+PORT="80"
 INSTALLDIR="/etc/xo"
 BRANCH="master"
 LOGFILE="$(dirname $0)/xo-install.log"
